@@ -37,3 +37,6 @@ This project consists of the following files:
 
 # Acknowledgements
 The Drum Kit web application was created by Sachin Lamba.
+
+# Netlify link :- https://resilient-seahorse-67f0fb.netlify.app/
+Linkedin link :- https://www.linkedin.com/in/sachin-lamba-301080252/
